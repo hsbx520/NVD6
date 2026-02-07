@@ -1012,7 +1012,7 @@ window.translations = {
         "modal.guideNotesTitle": "⚠️ 重要提示",
         "modal.guideNotes": "• 僅從您控制的個人錢包傳送<br>• ❌ 切勿從交易所錢包傳送<br>• ✅ 代幣透過智能合約自動傳送<br>• ⚡ 每種貨幣都有最低購買要求",
         "modal.guideRatesTitle": "💱 目前匯率",
-        "modal.guideRates": "1 ETH = 150,000 NVAI (最低: 0.1 ETH)<br>1 BNB = 45,000 NVAI (最低: 0.3 BNB)<br>1 USDT = 50 NVAI (最低: 200 USDT)<br>1 USDC = 50 NVAI (最低: 200 USDC)",
+        "modal.guideRates": "1 ETH = 105,000 NVAI (最低: 0.1 ETH)<br>1 BNB = 35,000 NVAI (最低: 0.3 BNB)<br>1 USDT = 50 NVAI (最低: 200 USDT)<br>1 USDC = 50 NVAI (最低: 200 USDC)",
         "modal.gotIt": "知道了",
         "modal.comingSoon": "即將推出",
         "modal.comingSoonText": "測試網即將啟動。敬請關注更新！",
