@@ -442,8 +442,8 @@ const PRESALE_CONFIG = {
     TOKEN_NAME: "NVAI",
     TOKEN_SYMBOL: "NVAI",
     PRICE_TABLE: {
-        ETH: 150000,
-        BNB: 45000,
+        ETH: 105000,
+        BNB: 35000,
         USDT: 50,
         USDC: 50
     },
@@ -670,8 +670,8 @@ document.getElementById('btn-purchase-guide').addEventListener('click', () => {
             <div class="guide-section">
                 <h3 data-lang-key="modal.guideRatesTitle">💱 Current Exchange Rates</h3>
                 <div class="guide-rates" data-lang-key="modal.guideRates">
-                    1 ETH = 150,000 NVAI (Min: 0.1 ETH)<br>
-                    1 BNB = 45,000 NVAI (Min: 0.3 BNB)<br>
+                    1 ETH = 105,000 NVAI (Min: 0.1 ETH)<br>
+                    1 BNB = 35,000 NVAI (Min: 0.3 BNB)<br>
                     1 USDT = 50 NVAI (Min: 200 USDT)<br>
                     1 USDC = 50 NVAI (Min: 200 USDC)
                 </div>
