@@ -1353,7 +1353,7 @@ window.translations = {
         "modal.guideNotesTitle": "⚠️ 중요 참고 사항",
         "modal.guideNotes": "• 개인 지갑에서만 보내십시오<br>• ❌ 거래소 지갑에서 보내지 마십시오<br>• ✅ 토큰은 스마트 계약을 통해 자동으로 전송됩니다<br>• ⚡ 각 통화에 최소 구매 요건이 적용됩니다",
         "modal.guideRatesTitle": "💱 현재 환율",
-        "modal.guideRates": "1 ETH = 150,000 NVAI (최소: 0.1 ETH)<br>1 BNB = 45,000 NVAI (최소: 0.3 BNB)<br>1 USDT = 50 NVAI (최소: 200 USDT)<br>1 USDC = 50 NVAI (최소: 200 USDC)",
+        "modal.guideRates": "1 ETH = 105,000 NVAI (최소: 0.1 ETH)<br>1 BNB = 35,000 NVAI (최소: 0.3 BNB)<br>1 USDT = 50 NVAI (최소: 200 USDT)<br>1 USDC = 50 NVAI (최소: 200 USDC)",
         "modal.gotIt": "알겠습니다",
         "modal.comingSoon": "곧 출시 예정",
         "modal.comingSoonText": "테스트넷이 곧 출시될 예정입니다. 업데이트를 기대해 주세요!",
