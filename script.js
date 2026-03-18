@@ -1,5 +1,5 @@
 // Countdown Timer
-// Mainnet target: 2025-11-21 22:00 Beijing Time (UTC+8) => 2025-11-21T14:00:00Z
+// Mainnet target: 2025-11-20 22:00 Beijing Time (UTC+8) => 2025-11-21T14:00:00Z
 const targetDate = new Date('2026-03-20T16:00:00Z').getTime();
 
 function updateCountdown() {
